@@ -16,10 +16,10 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Solution_Name: C:/microservices/ProductCatalog.sln  # Caminho completo para o ProductCatalog.sln
-      Test_Project_Path: C:/microservices/ProductCatalog/tests/ProductCatalog.Tests/ProductCatalog.Tests.csproj  # Caminho completo para os testes do ProductCatalog
-      ApiGateway_Path: C:/microservices/ApiGateway  # Caminho para a pasta ApiGateway
-      ConfigServer_Path: C:/microservices/ConfigServer  # Caminho para a pasta ConfigServer
+      Solution_Name: microservices/ProductCatalog.sln  # Caminho completo para o ProductCatalog.sln
+      Test_Project_Path: microservices/ProductCatalog/tests/ProductCatalog.Tests/ProductCatalog.Tests.csproj  # Caminho completo para os testes do ProductCatalog
+      ApiGateway_Path: microservices/ApiGateway  # Caminho para a pasta ApiGateway
+      ConfigServer_Path: microservices/ConfigServer  # Caminho para a pasta ConfigServer
 
     steps:
     - name: Checkout
