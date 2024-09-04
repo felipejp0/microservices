@@ -1,0 +1,151 @@
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.csproj.AssemblyReference.cache
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.AssemblyInfoInputs.cache
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.AssemblyInfo.cs
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.csproj.CoreCompileInputs.cache
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\appsettings.json
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.exe
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.deps.json
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.runtimeconfig.json
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.pdb
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Common.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.CloudFoundryCore.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.ConfigServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.build.ConfigServer.props
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConfigServer.props
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConfigServer.props
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\scopedcss\bundle\ConfigServer.styles.css
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigSe.A2B9698F.Up2Date
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\refint\ConfigServer.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.pdb
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.genruntimeconfig.cache
+C:\Users\mikec\source\repos\Project\ConfigServer\obj\Debug\net8.0\ref\ConfigServer.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\mikec\source\repos\Project\ConfigServer\bin\Debug\net8.0\YamlDotNet.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\appsettings.Development.json
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\appsettings.json
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.exe
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.deps.json
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.runtimeconfig.json
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.pdb
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Common.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.ClientCore.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.CloudFoundryCore.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\bin\Debug\net8.0\YamlDotNet.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.csproj.AssemblyReference.cache
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.AssemblyInfoInputs.cache
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.AssemblyInfo.cs
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.csproj.CoreCompileInputs.cache
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.sourcelink.json
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.ConfigServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.build.ConfigServer.props
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConfigServer.props
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConfigServer.props
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\scopedcss\bundle\ConfigServer.styles.css
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigSe.A2B9698F.Up2Date
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\refint\ConfigServer.dll
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.pdb
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.genruntimeconfig.cache
+D:\Microservices Project\product-catalog-microservices\Project\ConfigServer\obj\Debug\net8.0\ref\ConfigServer.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\appsettings.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.exe
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.deps.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.runtimeconfig.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\ConfigServer.pdb
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Common.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.CloudFoundryCore.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.csproj.AssemblyReference.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.AssemblyInfoInputs.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.AssemblyInfo.cs
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.csproj.CoreCompileInputs.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.ConfigServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.build.ConfigServer.props
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConfigServer.props
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConfigServer.props
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\scopedcss\bundle\ConfigServer.styles.css
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigSe.A2B9698F.Up2Date
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\refint\ConfigServer.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.pdb
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ConfigServer.genruntimeconfig.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ConfigServer\obj\Debug\net8.0\ref\ConfigServer.dll

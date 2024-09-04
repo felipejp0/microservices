@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "674UscpWWRP3M+ZPNbe65SAdyqqcgDrTgIQhSn/q5v4=",
+  "Source": "ConfigServer",
+  "BasePath": "_content/ConfigServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
