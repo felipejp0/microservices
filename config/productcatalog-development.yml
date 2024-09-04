@@ -1,0 +1,6 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+product-catalog:
+  message: "Hello from ProductCatalog in Development"

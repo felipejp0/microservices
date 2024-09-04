@@ -1,0 +1,242 @@
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\appsettings.json
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\ProductCatalog.exe
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\ProductCatalog.deps.json
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\ProductCatalog.runtimeconfig.json
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\ProductCatalog.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\ProductCatalog.pdb
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.AssemblyReference.cache
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.ProductCatalog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductCatalog.props
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductCatalog.props
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductCatalog.props
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\scopedcss\bundle\ProductCatalog.styles.css
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductC.FCD1102F.Up2Date
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\refint\ProductCatalog.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.pdb
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ProductCatalog.genruntimeconfig.cache
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net8.0\ref\ProductCatalog.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mikec\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\appsettings.json
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.exe
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.deps.json
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.runtimeconfig.json
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.pdb
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Consul.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.CloudFoundry.ConnectorBase.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Common.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.ConsulBase.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.AssemblyReference.cache
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.ProductCatalog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductCatalog.props
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductCatalog.props
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductCatalog.props
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\scopedcss\bundle\ProductCatalog.styles.css
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductC.FCD1102F.Up2Date
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\refint\ProductCatalog.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.pdb
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.genruntimeconfig.cache
+C:\Users\mikec\source\repos\Project\ProductCatalog\obj\Debug\net8.0\ref\ProductCatalog.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.staticwebassets.runtime.json
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+C:\Users\mikec\source\repos\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\appsettings.Development.json
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\appsettings.json
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.staticwebassets.runtime.json
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.exe
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.deps.json
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.runtimeconfig.json
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.pdb
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Consul.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.CloudFoundry.ConnectorBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Common.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.ClientCore.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.ConsulBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.AssemblyReference.cache
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfoInputs.cache
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfo.cs
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.CoreCompileInputs.cache
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.MvcApplicationPartsAssemblyInfo.cs
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.MvcApplicationPartsAssemblyInfo.cache
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.sourcelink.json
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets.build.json
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets.development.json
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.ProductCatalog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductCatalog.props
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductCatalog.props
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductCatalog.props
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\scopedcss\bundle\ProductCatalog.styles.css
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductC.FCD1102F.Up2Date
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\refint\ProductCatalog.dll
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.pdb
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.genruntimeconfig.cache
+D:\Microservices Project\product-catalog-microservices\Project\ProductCatalog\obj\Debug\net8.0\ref\ProductCatalog.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\appsettings.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.exe
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.deps.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.runtimeconfig.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\ProductCatalog.pdb
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Consul.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.CloudFoundry.ConnectorBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Common.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.ConsulBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\bin\Debug\net8.0\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.AssemblyReference.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.ProductCatalog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductCatalog.props
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductCatalog.props
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductCatalog.props
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\scopedcss\bundle\ProductCatalog.styles.css
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductC.FCD1102F.Up2Date
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\refint\ProductCatalog.dll
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.pdb
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ProductCatalog.genruntimeconfig.cache
+C:\Users\karin\Downloads\product-catalog-microservices-main\product-catalog-microservices-main\Project\ProductCatalog\obj\Debug\net8.0\ref\ProductCatalog.dll

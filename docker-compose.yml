@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  eureka-server:
+    build:
+      context: ./DiscoveryServerMaven
+    ports:
+      - "8761:8761"
+
+  product-catalog:
+    build:
+      context: ./ProductCatalog
+    ports:
+      - "5001:80"
+    depends_on:
+      - eureka-server
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  api-gateway:
+    build:
+      context: ./ApiGateway
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
+    networks:
+      - mynetwork
+    depends_on:
+      - product-catalog
+      - eureka-server
+
+  config-server:
+    build:
+      context: ./ConfigServer
+      dockerfile: Dockerfile
+    ports:
+      - "8888:80"
+    networks:
+      - mynetwork
+    depends_on:
+      - eureka-server
+
+networks:
+  mynetwork:
