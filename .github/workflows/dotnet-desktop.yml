@@ -16,10 +16,10 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Solution_Name: microservices/ProductCatalog.sln  # Caminho completo para o ProductCatalog.sln
-      Test_Project_Path: microservices/tests/ProductCatalog.Tests/ProductCatalog.Tests.csproj  # Caminho completo para os testes do ProductCatalog
-      ApiGateway_Path: microservices/ApiGateway  # Caminho para a pasta ApiGateway
-      ConfigServer_Path: microservices/ConfigServer  # Caminho para a pasta ConfigServer
+      Solution_Name: microservices/ProductCatalog.sln  # Caminho relativo para o ProductCatalog.sln
+      Test_Project_Path: microservices/ProductCatalog/tests/ProductCatalog.Tests/ProductCatalog.Tests.csproj  # Caminho relativo para os testes do ProductCatalog
+      ApiGateway_Path: microservices/ApiGateway  # Caminho relativo para a pasta ApiGateway
+      ConfigServer_Path: microservices/ConfigServer  # Caminho relativo para a pasta ConfigServer
 
     steps:
     - name: Checkout
@@ -40,20 +40,20 @@ jobs:
     # Build e testes do ProductCatalog
     - name: Build e testar ProductCatalog
       run: |
-        dotnet restore $env:Solution_Name
-        dotnet build $env:Solution_Name --configuration ${{ matrix.configuration }}
-        dotnet test $env:Test_Project_Path --configuration ${{ matrix.configuration }}
+        dotnet restore ${{ env.Solution_Name }}
+        dotnet build ${{ env.Solution_Name }} --configuration ${{ matrix.configuration }}
+        dotnet test ${{ env.Test_Project_Path }} --configuration ${{ matrix.configuration }}
 
     # Executar ApiGateway com dotnet run
     - name: Executar ApiGateway
       run: |
-        cd $env:ApiGateway_Path
+        cd ${{ env.ApiGateway_Path }}
         dotnet run --configuration ${{ matrix.configuration }}
 
     # Executar ConfigServer com dotnet run
     - name: Executar ConfigServer
       run: |
-        cd $env:ConfigServer_Path
+        cd ${{ env.ConfigServer_Path }}
         dotnet run --configuration ${{ matrix.configuration }}
 
     # Pular o build do EurekaServer (Java/Maven)
