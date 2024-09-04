@@ -1,0 +1,61 @@
+name: .NET Microservices
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    strategy:
+      matrix:
+        configuration: [Debug, Release]
+
+    runs-on: windows-latest
+
+    env:
+      Solution_Name: C:/microservices/ProductCatalog.sln  # Caminho completo para o ProductCatalog.sln
+      Test_Project_Path: C:/microservices/ProductCatalog/tests/ProductCatalog.Tests/ProductCatalog.Tests.csproj  # Caminho completo para os testes do ProductCatalog
+      ApiGateway_Path: C:/microservices/ApiGateway  # Caminho para a pasta ApiGateway
+      ConfigServer_Path: C:/microservices/ConfigServer  # Caminho para a pasta ConfigServer
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    # Instalar o .NET 8 SDK
+    - name: Instalar .NET 8 SDK
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x
+
+    # Adicionar MSBuild ao PATH
+    - name: Setup MSBuild.exe
+      uses: microsoft/setup-msbuild@v2
+
+    # Build e testes do ProductCatalog
+    - name: Build e testar ProductCatalog
+      run: |
+        dotnet restore $env:Solution_Name
+        dotnet build $env:Solution_Name --configuration ${{ matrix.configuration }}
+        dotnet test $env:Test_Project_Path --configuration ${{ matrix.configuration }}
+
+    # Executar ApiGateway com dotnet run
+    - name: Executar ApiGateway
+      run: |
+        cd $env:ApiGateway_Path
+        dotnet run --configuration ${{ matrix.configuration }}
+
+    # Executar ConfigServer com dotnet run
+    - name: Executar ConfigServer
+      run: |
+        cd $env:ConfigServer_Path
+        dotnet run --configuration ${{ matrix.configuration }}
+
+    # Pular o build do EurekaServer (Java/Maven)
+    - name: Ignorar EurekaServer
+      run: echo "EurekaServer é um projeto em Java e será ignorado neste pipeline."
