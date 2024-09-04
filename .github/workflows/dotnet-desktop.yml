@@ -16,9 +16,9 @@ jobs:
     runs-on: windows-latest
 
     env:
-      ProductCatalog_Path: microservices/ProductCatalog  # Caminho relativo para a pasta ProductCatalog
-      ApiGateway_Path: microservices/ApiGateway  # Caminho relativo para a pasta ApiGateway
-      ConfigServer_Path: microservices/ConfigServer  # Caminho relativo para a pasta ConfigServer
+      ProductCatalog_Path: Project\ProductCatalog  # Caminho relativo correto para a pasta ProductCatalog
+      ApiGateway_Path: Project\ApiGateway  # Caminho relativo correto para a pasta ApiGateway
+      ConfigServer_Path: Project\ConfigServer  # Caminho relativo correto para a pasta ConfigServer
 
     steps:
     - name: Checkout
@@ -31,6 +31,10 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
+
+    # Adicionar MSBuild ao PATH
+    - name: Setup MSBuild.exe
+      uses: microsoft/setup-msbuild@v2
 
     # Build e executar o ProductCatalog
     - name: Build e executar ProductCatalog
@@ -56,4 +60,3 @@ jobs:
     # Pular o build do EurekaServer (Java/Maven)
     - name: Ignorar EurekaServer
       run: echo "EurekaServer é um projeto em Java e será ignorado neste pipeline."
-
