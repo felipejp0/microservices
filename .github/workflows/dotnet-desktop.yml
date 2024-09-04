@@ -16,9 +16,9 @@ jobs:
     runs-on: windows-latest
 
     env:
-      ProductCatalog_Path: Project\ProductCatalog  # Caminho relativo correto para a pasta ProductCatalog
-      ApiGateway_Path: Project\ApiGateway  # Caminho relativo correto para a pasta ApiGateway
-      ConfigServer_Path: Project\ConfigServer  # Caminho relativo correto para a pasta ConfigServer
+      ProductCatalog_Path: microservices\ProductCatalog  # Caminho relativo correto para a pasta ProductCatalog
+      ApiGateway_Path: microservices\ApiGateway  # Caminho relativo correto para a pasta ApiGateway
+      ConfigServer_Path: microservices\ConfigServer  # Caminho relativo correto para a pasta ConfigServer
 
     steps:
     - name: Checkout
