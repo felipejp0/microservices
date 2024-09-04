@@ -16,7 +16,7 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Solution_Name: ProductCatalog.sln  # Caminho relativo para o ProductCatalog.sln
+      Solution_Name: ProductCatalog  # Caminho relativo para o ProductCatalog.sln
       ApiGateway_Path: ApiGateway  # Caminho relativo para a pasta ApiGateway
       ConfigServer_Path: ConfigServer  # Caminho relativo para a pasta ConfigServer
 
@@ -37,10 +37,11 @@ jobs:
       uses: microsoft/setup-msbuild@v2
 
     # Build do ProductCatalog
-    - name: Build e testar ProductCatalog
+    - name: Build e run ProductCatalog
       run: |
         dotnet restore ${{ env.Solution_Name }}
         dotnet build ${{ env.Solution_Name }} --configuration ${{ matrix.configuration }}
+        dotnet run ${{ env.Solution_Name }} --configuration ${{ matrix.configuration }}
 
     # Executar ApiGateway com dotnet run
     - name: Executar ApiGateway
