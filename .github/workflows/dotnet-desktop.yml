@@ -36,23 +36,25 @@ jobs:
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
 
-    # Build do ProductCatalog
-    - name: Build e run ProductCatalog
+     # Build e executar o ProductCatalog
+    - name: Build e executar ProductCatalog
       run: |
-        dotnet restore ${{ env.Solution_Name }}
-        dotnet build ${{ env.Solution_Name }} --configuration ${{ matrix.configuration }}
-        dotnet run ${{ env.Solution_Name }} --configuration ${{ matrix.configuration }}
-
-    # Executar ApiGateway com dotnet run
-    - name: Executar ApiGateway
-      run: |
-        cd ${{ env.ApiGateway_Path }}
+        cd microservices/ProductCatalog
+        dotnet build --configuration ${{ matrix.configuration }}
         dotnet run --configuration ${{ matrix.configuration }}
 
-    # Executar ConfigServer com dotnet run
-    - name: Executar ConfigServer
+    # Build e executar o ApiGateway
+    - name: Build e executar ApiGateway
       run: |
-        cd ${{ env.ConfigServer_Path }}
+        cd ApiGateway
+        dotnet build --configuration ${{ matrix.configuration }}
+        dotnet run --configuration ${{ matrix.configuration }}
+
+    # Build e executar o ConfigServer
+    - name: Build e executar ConfigServer
+      run: |
+        cd ConfigServer
+        dotnet build --configuration ${{ matrix.configuration }}
         dotnet run --configuration ${{ matrix.configuration }}
 
     # Pular o build do EurekaServer (Java/Maven)
