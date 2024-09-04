@@ -16,9 +16,9 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Solution_Name: ProductCatalog.sln  # Caminho relativo para o ProductCatalog.sln
-      ApiGateway_Path: ApiGateway  # Caminho relativo para a pasta ApiGateway
-      ConfigServer_Path: ConfigServer  # Caminho relativo para a pasta ConfigServer
+      ProductCatalog_Path: microservices/ProductCatalog  # Caminho relativo para a pasta ProductCatalog
+      ApiGateway_Path: microservices/ApiGateway  # Caminho relativo para a pasta ApiGateway
+      ConfigServer_Path: microservices/ConfigServer  # Caminho relativo para a pasta ConfigServer
 
     steps:
     - name: Checkout
@@ -32,31 +32,28 @@ jobs:
       with:
         dotnet-version: 8.0.x
 
-    # Adicionar MSBuild ao PATH
-    - name: Setup MSBuild.exe
-      uses: microsoft/setup-msbuild@v2
-
-     # Build e executar o ProductCatalog
+    # Build e executar o ProductCatalog
     - name: Build e executar ProductCatalog
       run: |
-        cd microservices/ProductCatalog
+        cd $env:ProductCatalog_Path
         dotnet build --configuration ${{ matrix.configuration }}
         dotnet run --configuration ${{ matrix.configuration }}
 
     # Build e executar o ApiGateway
     - name: Build e executar ApiGateway
       run: |
-        cd ApiGateway
+        cd $env:ApiGateway_Path
         dotnet build --configuration ${{ matrix.configuration }}
         dotnet run --configuration ${{ matrix.configuration }}
 
     # Build e executar o ConfigServer
     - name: Build e executar ConfigServer
       run: |
-        cd ConfigServer
+        cd $env:ConfigServer_Path
         dotnet build --configuration ${{ matrix.configuration }}
         dotnet run --configuration ${{ matrix.configuration }}
 
     # Pular o build do EurekaServer (Java/Maven)
     - name: Ignorar EurekaServer
       run: echo "EurekaServer é um projeto em Java e será ignorado neste pipeline."
+
