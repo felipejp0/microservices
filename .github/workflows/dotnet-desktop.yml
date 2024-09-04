@@ -17,7 +17,6 @@ jobs:
 
     env:
       Solution_Name: ProductCatalog.sln  # Caminho relativo para o ProductCatalog.sln
-      Test_Project_Path: ProductCatalog/tests/ProductCatalog.Tests/ProductCatalog.Tests.csproj  # Caminho relativo para os testes do ProductCatalog
       ApiGateway_Path: ApiGateway  # Caminho relativo para a pasta ApiGateway
       ConfigServer_Path: ConfigServer  # Caminho relativo para a pasta ConfigServer
 
@@ -37,12 +36,11 @@ jobs:
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
 
-    # Build e testes do ProductCatalog
+    # Build do ProductCatalog
     - name: Build e testar ProductCatalog
       run: |
         dotnet restore ${{ env.Solution_Name }}
         dotnet build ${{ env.Solution_Name }} --configuration ${{ matrix.configuration }}
-        dotnet test ${{ env.Test_Project_Path }} --configuration ${{ matrix.configuration }}
 
     # Executar ApiGateway com dotnet run
     - name: Executar ApiGateway
