@@ -32,17 +32,30 @@ jobs:
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v2
 
-    - name: Build and run ApiGateway
+    # Opção 1: Build and run ApiGateway in background (executa em segundo plano)
+    #- name: Build and run ApiGateway in background
+    #  run: |
+    #    cd $env:ApiGateway_Path
+    #    dotnet build --configuration ${{ matrix.configuration }}
+    #    nohup dotnet run --configuration ${{ matrix.configuration }} &
+
+    # Opção 2: Apenas Build ApiGateway (não executa o servidor)
+    - name: Build ApiGateway
       run: |
         cd $env:ApiGateway_Path
         dotnet build --configuration ${{ matrix.configuration }}
-        dotnet run --configuration ${{ matrix.configuration }}
 
-    - name: Build and run ConfigServer
+    # Opção 3: Build and run ApiGateway with timeout (limita o tempo de execução)
+    #- name: Build and run ApiGateway with timeout
+    #  run: |
+    #    cd $env:ApiGateway_Path
+    #    dotnet build --configuration ${{ matrix.configuration }}
+    #    timeout 30s dotnet run --configuration ${{ matrix.configuration }}
+
+    - name: Build ConfigServer
       run: |
         cd $env:ConfigServer_Path
         dotnet build --configuration ${{ matrix.configuration }}
-        dotnet run --configuration ${{ matrix.configuration }}
 
     - name: Skip EurekaServer
       run: echo "EurekaServer is a Java project and will be skipped in this pipeline."
