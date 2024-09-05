@@ -13,49 +13,36 @@ jobs:
       matrix:
         configuration: [Debug, Release]
 
-
     env:
-      ProductCatalog_Path: ProductCatalog  # Caminho relativo correto para a pasta ProductCatalog
-      ApiGateway_Path: ApiGateway  # Caminho relativo correto para a pasta ApiGateway
-      ConfigServer_Path: ConfigServer  # Caminho relativo correto para a pasta ConfigServer
+      ProductCatalog_Path: ProductCatalog
+      ApiGateway_Path: ApiGateway
+      ConfigServer_Path: ConfigServer
 
     steps:
-    - name: Checkout
+    - name: Checkout code
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
-    # Instalar o .NET 8 SDK
-    - name: Instalar .NET 8 SDK
+    - name: Setup .NET 8 SDK
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
 
-    # Adicionar MSBuild ao PATH
-    - name: Setup MSBuild.exe
+    - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v2
 
-    # Build e executar o ProductCatalog
-    #- name: Build e executar ProductCatalog
-    #  run: |
-    #   cd $env:ProductCatalog_Path
-    #    dotnet build --configuration ${{ matrix.configuration }}
-    #    dotnet run --configuration ${{ matrix.configuration }}
-
-    # Build e executar o ApiGateway
-    - name: Build e executar ApiGateway
+    - name: Build and run ApiGateway
       run: |
         cd $env:ApiGateway_Path
         dotnet build --configuration ${{ matrix.configuration }}
         dotnet run --configuration ${{ matrix.configuration }}
 
-    # Build e executar o ConfigServer
-    - name: Build e executar ConfigServer
+    - name: Build and run ConfigServer
       run: |
         cd $env:ConfigServer_Path
         dotnet build --configuration ${{ matrix.configuration }}
         dotnet run --configuration ${{ matrix.configuration }}
 
-    # Pular o build do EurekaServer (Java/Maven)
-    - name: Ignorar EurekaServer
-      run: echo "EurekaServer é um projeto em Java e será ignorado neste pipeline."
+    - name: Skip EurekaServer
+      run: echo "EurekaServer is a Java project and will be skipped in this pipeline."
