@@ -36,11 +36,11 @@ jobs:
       uses: microsoft/setup-msbuild@v2
 
     # Build e executar o ProductCatalog
-    - name: Build e executar ProductCatalog
-      run: |
-        cd $env:ProductCatalog_Path
-        dotnet build --configuration ${{ matrix.configuration }}
-        dotnet run --configuration ${{ matrix.configuration }}
+    #- name: Build e executar ProductCatalog
+    #  run: |
+    #   cd $env:ProductCatalog_Path
+    #    dotnet build --configuration ${{ matrix.configuration }}
+    #    dotnet run --configuration ${{ matrix.configuration }}
 
     # Build e executar o ApiGateway
     - name: Build e executar ApiGateway
